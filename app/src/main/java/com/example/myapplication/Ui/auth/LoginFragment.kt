@@ -23,6 +23,12 @@ class LoginFragment : Fragment() {
         return binding.root
     }
 
+    override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
+        super.onViewCreated(view, savedInstanceState)
+
+        initClicks()
+    }
+
     private fun initClicks(){
         binding.btnRegister.setOnClickListener{
             findNavController().navigate(R.id.action_loginFragment_to_registerFragment)
