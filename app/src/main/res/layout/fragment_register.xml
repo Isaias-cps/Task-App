@@ -59,7 +59,7 @@
                 android:layout_marginTop="8dp"
                 android:background="@drawable/bg_edit"
                 android:padding="14dp"
-                android:text="email@email.com"
+                android:hint="email@email.com"
                 android:textSize="14sp" />
 
             <TextView
@@ -75,7 +75,7 @@
                 android:layout_marginTop="8dp"
                 android:background="@drawable/bg_edit"
                 android:padding="14dp"
-                android:text="*******"
+                android:hint="*******"
                 android:textSize="14sp" />
 
             <Button
