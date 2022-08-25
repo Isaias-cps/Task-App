@@ -22,5 +22,11 @@
     <string name="email_in_use_register_fragment">E-mail já cadastrado.</string>
     <string name="strong_password_register_fragment">Insira uma senha mais forte.</string>
 
+    <!--    Form Task Fragment-->
+    <string name="Text_title_from_task_fragment">Nova tarefa</string>
+    <string name="Text_task_from_task_fragment">Tarefa</string>
+    <string name="Text_status_from_task_fragment">Status</string>
+    <string name="Text_btn_save_task_from_task_fragment">Salvar</string>
+
 
 </resources>
