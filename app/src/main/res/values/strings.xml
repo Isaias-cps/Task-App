@@ -1,5 +1,18 @@
 <resources>
-    <string name="app_name">My Application</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="app_name">Task-App</string>
+
+    <!--    Generics-->
+    <string name="text_email">E-email</string>
+    <string name="text_password">Senha</string>
+    <string name="text_register_acoount">Criar conta</string>
+
+    <!--    Login Fragment-->
+    <string name="text_btn_login_fragment">Login</string>
+    <string name="text_recover_login_fragment">Recuperar conta</string>
+
+    <!--    Recover Account Fragment-->
+    <string name="text_btn_recover_account_fragment">Enviar</string>
+    <string name="text_recover_password">Recuperar conta</string>
+
+
 </resources>

@@ -27,7 +27,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Criar conta"
+                    android:text="@string/text_register_acoount"
                     android:textColor="@color/white"
                     android:layout_gravity="center_horizontal"/>
 
@@ -50,7 +50,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="E-email"
+                android:text="@string/text_email"
                 android:textColor="@color/white" />
 
             <EditText
@@ -68,7 +68,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="16dp"
-                android:text="Senha"
+                android:text="@string/text_password"
                 android:textColor="@color/white" />
 
             <EditText
@@ -88,7 +88,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginTop="16dp"
                 android:background="@drawable/bg_button"
-                android:text="Criar conta"
+                android:text="@string/text_register_acoount"
                 android:textAllCaps="false"
                 android:textColor="@color/color_default"
                 app:backgroundTint="@null" />
