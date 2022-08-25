@@ -5,6 +5,7 @@
     <string name="text_email">E-email</string>
     <string name="text_password">Senha</string>
     <string name="text_register_acoount">Criar conta</string>
+    <string name="error_reneric">Ocorreu um erro, por favor tente novamente mais tarde.</string>
 
     <!--    Login Fragment-->
     <string name="text_btn_login_fragment">Login</string>
@@ -13,6 +14,13 @@
     <!--    Recover Account Fragment-->
     <string name="text_btn_recover_account_fragment">Enviar</string>
     <string name="text_recover_password">Recuperar conta</string>
+
+    <!--    Erros Firebase Authentication-->
+    <string name="acount_not_registered_register_fragment">Nenhuma conta encontrada com este e-mail.</string>
+    <string name="invalid_email_register_fragment">Insira um e-mail válido.</string>
+    <string name="invalid_password_register_fragment">Senha inválida, tente novamente.</string>
+    <string name="email_in_use_register_fragment">E-mail já cadastrado.</string>
+    <string name="strong_password_register_fragment">Insira uma senha mais forte.</string>
 
 
 </resources>
